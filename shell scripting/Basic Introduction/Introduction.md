@@ -1,6 +1,6 @@
 # Basic Introduction
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 **What is Linux Shell?**
 
@@ -22,7 +22,7 @@
 
 - shell provides an interface to Linux where you can type commands using the keyboard it is known as CLI.
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 2 Rules associated with UNIX Philosophy:
 
@@ -47,16 +47,16 @@
 
 - command prompt ends with
   - $ : for Regular user
-  - # : Root user
+  - "#" : Root user
 
-![image.png](image%202.png)
+![image.png](images/image%202.png)
 
 - Each Bash text has three parts:
   - The command
   - Options that typically start with a `-` or `--`
   - Argument
 
-![image.png](image%203.png)
+![image.png](images/image%203.png)
 
 `type` command used to find out if a command is built in or external binary file.
 
