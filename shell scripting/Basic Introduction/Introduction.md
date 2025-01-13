@@ -47,7 +47,7 @@
 
 - command prompt ends with
   - $ : for Regular user
-  - # : Root user
+  - "#" : Root user
 
 ![image.png](image%202.png)
 
