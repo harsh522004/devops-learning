@@ -1,3 +1,3 @@
 # devops-learning
 
-# authro - Harsh Butani
+# author - Harsh Butani
