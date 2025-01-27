@@ -56,6 +56,6 @@ drwxr-x--- 22 harsh harsh 4096 Jan 27 23:01 ..
 
 ### Proof of Work:
 
-![image.png](images/image1.1)
+![image.png](images/image1.1.png)
 
 ![image.png](images/image1.2.png)
